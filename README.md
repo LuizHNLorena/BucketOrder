@@ -1,7 +1,7 @@
 ## Best solutions for Preflib and Movielens instances
 
 
-| Instance            |  Fitness            |  Best solution      |
+| Instance            |  Fitness            |  Solution           |
 | ------------------- | ------------------- | ------------------- |
 | ED-10-11 | | |
 | ED-10-02 | | |
