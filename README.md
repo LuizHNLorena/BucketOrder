@@ -1,10 +1,10 @@
 ## Best solutions for Preflib and Movielens instances
 
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
-| ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
+| Instance            |  Seed               |  Fitness            |  Best solution      |
+| ------------------- | ------------------- | ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo | | |
+|  Célula de conteúdo |  Célula de conteúdo | | |
 
 
 You can use the [editor on GitHub](https://github.com/LuizHNLorena/BucketOrder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
