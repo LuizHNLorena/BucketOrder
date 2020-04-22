@@ -1,11 +1,11 @@
 ## Best solutions for Preflib and Movielens instances
 
-/***
+
 | __Animals__ | __Sports__ | __Fruits__ |
 |-------------|------------|------------|
 | Cat         | Soccer     | Apple      |
 | Dog         | Basketball | Orange     |
-***/
+
 
 You can use the [editor on GitHub](https://github.com/LuizHNLorena/BucketOrder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
