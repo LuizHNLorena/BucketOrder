@@ -3,8 +3,9 @@
 
 | Instance            |  Seed               |  Fitness            |  Best solution      |
 | ------------------- | ------------------- | ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo | | |
-|  Célula de conteúdo |  Célula de conteúdo | | |
+|  ED-10-11 |  Célula de conteúdo | | |
+|  ED-10-02 |  Célula de conteúdo | | |
+
 
 
 You can use the [editor on GitHub](https://github.com/LuizHNLorena/BucketOrder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
