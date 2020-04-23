@@ -2,7 +2,6 @@ The sections that follow presents the best solution found by A-BRKGA+VND on the 
 
 ## Best solutions for Preflib and Movielens instances
 
-
 | Instance            |  Fitness            |  Solution           |
 | ------------------- | ------------------- | ------------------- |
 | ED-10-11 | 558.0 | [Download](bestsolutions/preflib/ABRKGA/ED-10-11.txt) |
