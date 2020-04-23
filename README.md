@@ -48,9 +48,9 @@ The sections that follow presents the best solution found by A-BRKGA+VND on the 
 | ED-15-23 | 2838.0 | [Download](bestsolutions/preflib/ABRKGA/ED-15-23.txt) |
 | ED-15-32 | 3112.5 | [Download](bestsolutions/preflib/ABRKGA/ED-15-32.txt) |
 | ED-15-14 | 3502.5 | [Download](bestsolutions/preflib/ABRKGA/ED-15-14.txt) |
-| ED-10-50 | 5499.2 | [Download](bestsolutions/preflib/ABRKGA/ED-10-50.txt) |
-| ED-11-01 | 5558.0 | [Download](bestsolutions/preflib/ABRKGA/ED-11-01.txt) |
-| ED-11-02 | 10927.8 | [Download](bestsolutions/preflib/ABRKGA/ED-11-02.txt) |
+| ED-10-50 | 5467.2 | [Download](bestsolutions/preflib/ABRKGA/ED-10-50.txt) |
+| ED-11-01 | 5556.2 | [Download](bestsolutions/preflib/ABRKGA/ED-11-01.txt) |
+| ED-11-02 | 10913.4 | [Download](bestsolutions/preflib/ABRKGA/ED-11-02.txt) |
 | ML-050-6 | 418.2 | [Download](bestsolutions/preflib/ABRKGA/ML-050-6.txt) |
 | ML-100-1 | 1869.6 | [Download](bestsolutions/preflib/ABRKGA/ML-100-1.txt) |
 | ML-150-2 | 4639.8 | [Download](bestsolutions/preflib/ABRKGA/ML-150-2.txt) |
