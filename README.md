@@ -61,6 +61,7 @@ The sections that follow presents the best solution found by A-BRKGA+VND on the 
 
 | Instance            |  Fitness            |  Solution           |
 | ------------------- | ------------------- | ------------------- |
+| 50-0.2-1 | 260.9 | [Download](bestsolutions/mallows/ABRKGA/50-0.2-1.txt) |
 | 50-0.2-2 | 266.4 | [Download](bestsolutions/mallows/ABRKGA/50-0.2-2.txt) |
 | 50-0.2-3 | 263.9 | [Download](bestsolutions/mallows/ABRKGA/50-0.2-3.txt) |
 | 50-0.2-4 | 263.1 | [Download](bestsolutions/mallows/ABRKGA/50-0.2-4.txt) |
