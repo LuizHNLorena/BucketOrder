@@ -3,7 +3,7 @@
 
 | Instance            |  Fitness            |  Solution           |
 | ------------------- | ------------------- | ------------------- |
-| ED-10-11 | | |
+| ED-10-11 | | [Download](bestsolutions/preflib/ABRKGA/ED-10-11.txt) |
 | ED-10-02 | | |
 | ED-10-15 | | |
 | ED-10-03 | | |
