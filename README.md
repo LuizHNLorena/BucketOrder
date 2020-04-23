@@ -56,40 +56,110 @@
 | ML-250-4 | 12281.8 | [Download](bestsolutions/preflib/ABRKGA/ML-250-4.txt) |
 | ML-250-6 | 12257.5 | [Download](bestsolutions/preflib/ABRKGA/ML-250-6.txt) |
 
+## Best solutions for Mallows instances
 
+| Instance            |  Fitness            |  Solution           |
+| ------------------- | ------------------- | ------------------- |
+| 50-0.2-2 | 266.42 | [Download](bestsolutions/mallows/ABRKGA/50-0.2-2.txt) |
+| 50-0.2-3 | 263.9 | [Download](bestsolutions/mallows/ABRKGA/50-0.2-3.txt) |
+| 50-0.2-4 | 263.14 | [Download](bestsolutions/mallows/ABRKGA/50-0.2-4.txt) |
+| 50-0.2-5 | 264.78 | [Download](bestsolutions/mallows/ABRKGA/50-0.2-5.txt) |
+| 50-0.1-1 | 380.12 | [Download](bestsolutions/mallows/ABRKGA/50-0.1-1.txt) |
+| 50-0.1-2 | 378.62 | [Download](bestsolutions/mallows/ABRKGA/50-0.1-2.txt) |
+| 50-0.1-3 | 385.98 | [Download](bestsolutions/mallows/ABRKGA/50-0.1-3.txt) |
+| 50-0.1-4 | 381.52 | [Download](bestsolutions/mallows/ABRKGA/50-0.1-4.txt) |
+| 50-0.1-5 | 382.82 | [Download](bestsolutions/mallows/ABRKGA/50-0.1-5.txt) |
+| 50-0.01-1 | 118.86 | [Download](bestsolutions/mallows/ABRKGA/50-0.01-1.txt) |
+| 50-0.01-2 | 118.86 | [Download](bestsolutions/mallows/ABRKGA/50-0.01-2.txt) |
+| 50-0.01-3 | 122.82 | [Download](bestsolutions/mallows/ABRKGA/50-0.01-3.txt) |
+| 50-0.01-4 | 124.56 | [Download](bestsolutions/mallows/ABRKGA/50-0.01-4.txt) |
+| 50-0.01-5 | 112.46 | [Download](bestsolutions/mallows/ABRKGA/50-0.01-5.txt) |
+| 50-0.001-1 | 105.78 | [Download](bestsolutions/mallows/ABRKGA/50-0.001-1.txt) |
+| 50-0.001-2 | 97.92 | [Download](bestsolutions/mallows/ABRKGA/50-0.001-2.txt) |
+| 50-0.001-3 | 102.04 | [Download](bestsolutions/mallows/ABRKGA/50-0.001-3.txt) |
+| 50-0.001-4 | 109.32 | [Download](bestsolutions/mallows/ABRKGA/50-0.001-4.txt) |
+| 50-0.001-5 | 101.32 | [Download](bestsolutions/mallows/ABRKGA/50-0.001-5.txt) |
+| 100-0.2-1 | 596.04 | [Download](bestsolutions/mallows/ABRKGA/100-0.2-1.txt) |
+| 100-0.2-2 | 594.8 | [Download](bestsolutions/mallows/ABRKGA/100-0.2-2.txt) |
+| 100-0.2-3 | 588.96 | [Download](bestsolutions/mallows/ABRKGA/100-0.2-3.txt) |
+| 100-0.2-4 | 600.22 | [Download](bestsolutions/mallows/ABRKGA/100-0.2-4.txt) |
+| 100-0.2-5 | 594.12 | [Download](bestsolutions/mallows/ABRKGA/100-0.2-5.txt) |
+| 100-0.1-1 | 1060.64 | [Download](bestsolutions/mallows/ABRKGA/100-0.1-1.txt) |
+| 100-0.1-2 | 1056.68 | [Download](bestsolutions/mallows/ABRKGA/100-0.1-2.txt) |
+| 100-0.1-3 | 1051.64 | [Download](bestsolutions/mallows/ABRKGA/100-0.1-3.txt) |
+| 100-0.1-4 | 1053.38 | [Download](bestsolutions/mallows/ABRKGA/100-0.1-4.txt) |
+| 100-0.1-5 | 1073.3 | [Download](bestsolutions/mallows/ABRKGA/100-0.1-5.txt) |
+| 100-0.01-1 | 648.56 | [Download](bestsolutions/mallows/ABRKGA/100-0.01-1.txt) |
+| 100-0.01-2 | 671.2 | [Download](bestsolutions/mallows/ABRKGA/100-0.01-2.txt) |
+| 100-0.01-3 | 690.92 | [Download](bestsolutions/mallows/ABRKGA/100-0.01-3.txt) |
+| 100-0.01-4 | 659.4 | [Download](bestsolutions/mallows/ABRKGA/100-0.01-4.txt) |
+| 100-0.01-5 | 669.38 | [Download](bestsolutions/mallows/ABRKGA/100-0.01-5.txt) |
+| 100-0.001-1 | 393.62 | [Download](bestsolutions/mallows/ABRKGA/100-0.001-1.txt) |
+| 100-0.001-2 | 397.46 | [Download](bestsolutions/mallows/ABRKGA/100-0.001-2.txt) |
+| 100-0.001-3 | 397.14 | [Download](bestsolutions/mallows/ABRKGA/100-0.001-3.txt) |
+| 100-0.001-4 | 400.88 | [Download](bestsolutions/mallows/ABRKGA/100-0.001-4.txt) |
+| 100-0.001-5 | 396.4 | [Download](bestsolutions/mallows/ABRKGA/100-0.001-5.txt) |
+| 150-0.2-1 | 938 | [Download](bestsolutions/mallows/ABRKGA/150-0.2-1.txt) |
+| 150-0.2-2 | 922.46 | [Download](bestsolutions/mallows/ABRKGA/150-0.2-2.txt) |
+| 150-0.2-3 | 919.44 | [Download](bestsolutions/mallows/ABRKGA/150-0.2-3.txt) |
+| 150-0.2-4 | 920.52 | [Download](bestsolutions/mallows/ABRKGA/150-0.2-4.txt) |
+| 150-0.2-5 | 935.46 | [Download](bestsolutions/mallows/ABRKGA/150-0.2-5.txt) |
+| 150-0.1-1 | 1758.58 | [Download](bestsolutions/mallows/ABRKGA/150-0.1-1.txt) |
+| 150-0.1-2 | 1735.4 | [Download](bestsolutions/mallows/ABRKGA/150-0.1-2.txt) |
+| 150-0.1-3 | 1739.08 | [Download](bestsolutions/mallows/ABRKGA/150-0.1-3.txt) |
+| 150-0.1-4 | 1743.28 | [Download](bestsolutions/mallows/ABRKGA/150-0.1-4.txt) |
+| 150-0.1-5 | 1752.28 | [Download](bestsolutions/mallows/ABRKGA/150-0.1-5.txt) |
+| 150-0.01-1 | 1947.06 | [Download](bestsolutions/mallows/ABRKGA/150-0.01-1.txt) |
+| 150-0.01-2 | 2023.46 | [Download](bestsolutions/mallows/ABRKGA/150-0.01-2.txt) |
+| 150-0.01-3 | 2078.56 | [Download](bestsolutions/mallows/ABRKGA/150-0.01-3.txt) |
+| 150-0.01-4 | 2045.82 | [Download](bestsolutions/mallows/ABRKGA/150-0.01-4.txt) |
+| 150-0.01-5 | 1970.9 | [Download](bestsolutions/mallows/ABRKGA/150-0.01-5.txt) |
+| 150-0.001-1 | 870.28 | [Download](bestsolutions/mallows/ABRKGA/150-0.001-1.txt) |
+| 150-0.001-2 | 933.42 | [Download](bestsolutions/mallows/ABRKGA/150-0.001-2.txt) |
+| 150-0.001-3 | 878.04 | [Download](bestsolutions/mallows/ABRKGA/150-0.001-3.txt) |
+| 150-0.001-4 | 928.86 | [Download](bestsolutions/mallows/ABRKGA/150-0.001-4.txt) |
+| 150-0.001-5 | 862.28 | [Download](bestsolutions/mallows/ABRKGA/150-0.001-5.txt) |
+| 200-0.2-1 | 1273.9 | [Download](bestsolutions/mallows/ABRKGA/200-0.2-1.txt) |
+| 200-0.2-2 | 1256.08 | [Download](bestsolutions/mallows/ABRKGA/200-0.2-2.txt) |
+| 200-0.2-3 | 1258.58 | [Download](bestsolutions/mallows/ABRKGA/200-0.2-3.txt) |
+| 200-0.2-4 | 1245.44 | [Download](bestsolutions/mallows/ABRKGA/200-0.2-4.txt) |
+| 200-0.2-5 | 1265.34 | [Download](bestsolutions/mallows/ABRKGA/200-0.2-5.txt) |
+| 200-0.1-1 | 2431.32 | [Download](bestsolutions/mallows/ABRKGA/200-0.1-1.txt) |
+| 200-0.1-2 | 2422 | [Download](bestsolutions/mallows/ABRKGA/200-0.1-2.txt) |
+| 200-0.1-3 | 2427.72 | [Download](bestsolutions/mallows/ABRKGA/200-0.1-3.txt) |
+| 200-0.1-4 | 2389.82 | [Download](bestsolutions/mallows/ABRKGA/200-0.1-4.txt) |
+| 200-0.1-5 | 2439.96 | [Download](bestsolutions/mallows/ABRKGA/200-0.1-5.txt) |
+| 200-0.01-1 | 4481.92 | [Download](bestsolutions/mallows/ABRKGA/200-0.01-1.txt) |
+| 200-0.01-2 | 4702.38 | [Download](bestsolutions/mallows/ABRKGA/200-0.01-2.txt) |
+| 200-0.01-3 | 4574.22 | [Download](bestsolutions/mallows/ABRKGA/200-0.01-3.txt) |
+| 200-0.01-4 | 4637.14 | [Download](bestsolutions/mallows/ABRKGA/200-0.01-4.txt) |
+| 200-0.01-5 | 4552.88 | [Download](bestsolutions/mallows/ABRKGA/200-0.01-5.txt) |
+| 200-0.001-1 | 1609.04 | [Download](bestsolutions/mallows/ABRKGA/200-0.001-1.txt) |
+| 200-0.001-2 | 1738.1 | [Download](bestsolutions/mallows/ABRKGA/200-0.001-2.txt) |
+| 200-0.001-3 | 1639.28 | [Download](bestsolutions/mallows/ABRKGA/200-0.001-3.txt) |
+| 200-0.001-4 | 1639.68 | [Download](bestsolutions/mallows/ABRKGA/200-0.001-4.txt) |
+| 200-0.001-5 | 1695.92 | [Download](bestsolutions/mallows/ABRKGA/200-0.001-5.txt) |
+| 250-0.2-1 | 1602.44 | [Download](bestsolutions/mallows/ABRKGA/250-0.2-1.txt) |
+| 250-0.2-2 | 1591.28 | [Download](bestsolutions/mallows/ABRKGA/250-0.2-2.txt) |
+| 250-0.2-3 | 1583.52 | [Download](bestsolutions/mallows/ABRKGA/250-0.2-3.txt) |
+| 250-0.2-4 | 1572.52 | [Download](bestsolutions/mallows/ABRKGA/250-0.2-4.txt) |
+| 250-0.2-5 | 1598.04 | [Download](bestsolutions/mallows/ABRKGA/250-0.2-5.txt) |
+| 250-0.1-1 | 3120.26 | [Download](bestsolutions/mallows/ABRKGA/250-0.1-1.txt) |
+| 250-0.1-2 | 3081.98 | [Download](bestsolutions/mallows/ABRKGA/250-0.1-2.txt) |
+| 250-0.1-3 | 3082.22 | [Download](bestsolutions/mallows/ABRKGA/250-0.1-3.txt) |
+| 250-0.1-4 | 3074.7 | [Download](bestsolutions/mallows/ABRKGA/250-0.1-4.txt) |
+| 250-0.1-5 | 3115.86 | [Download](bestsolutions/mallows/ABRKGA/250-0.1-5.txt) |
+| 250-0.01-1 | 8568.54 | [Download](bestsolutions/mallows/ABRKGA/250-0.01-1.txt) |
+| 250-0.01-2 | 8644.08 | [Download](bestsolutions/mallows/ABRKGA/250-0.01-2.txt) |
+| 250-0.01-3 | 8710.76 | [Download](bestsolutions/mallows/ABRKGA/250-0.01-3.txt) |
+| 250-0.01-4 | 8574.1 | [Download](bestsolutions/mallows/ABRKGA/250-0.01-4.txt) |
+| 250-0.01-5 | 8500.38 | [Download](bestsolutions/mallows/ABRKGA/250-0.01-5.txt) |
+| 250-0.001-1 | 2602.74 | [Download](bestsolutions/mallows/ABRKGA/250-0.001-1.txt) |
+| 250-0.001-2 | 2622.06 | [Download](bestsolutions/mallows/ABRKGA/250-0.001-2.txt) |
+| 250-0.001-3 | 2707.7 | [Download](bestsolutions/mallows/ABRKGA/250-0.001-3.txt) |
+| 250-0.001-4 | 2696.74 | [Download](bestsolutions/mallows/ABRKGA/250-0.001-4.txt) |
+| 250-0.001-5 | 2626.38 | [Download](bestsolutions/mallows/ABRKGA/250-0.001-5.txt) |
 
-You can use the [editor on GitHub](https://github.com/LuizHNLorena/BucketOrder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuizHNLorena/BucketOrder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
