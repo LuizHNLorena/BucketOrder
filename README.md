@@ -55,7 +55,7 @@ The sections that follow presents the best solution found by A-BRKGA+VND on the 
 | ML-150-2 | 4639.8 | [Download](bestsolutions/preflib/ABRKGA/ML-150-2.txt) |
 | ML-200-3 | 8421.7 | [Download](bestsolutions/preflib/ABRKGA/ML-200-3.txt) |
 | ML-250-4 | 12281.8 | [Download](bestsolutions/preflib/ABRKGA/ML-250-4.txt) |
-| ML-250-6 | 12257.5 | [Download](bestsolutions/preflib/ABRKGA/ML-250-6.txt) |
+| ML-250-5 | 12257.5 | [Download](bestsolutions/preflib/ABRKGA/ML-250-5.txt) |
 
 ## Best solutions for Mallows instances
 
