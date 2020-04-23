@@ -159,7 +159,3 @@
 | 250-0.001-3 | 2707.7 | [Download](bestsolutions/mallows/ABRKGA/250-0.001-3.txt) |
 | 250-0.001-4 | 2696.74 | [Download](bestsolutions/mallows/ABRKGA/250-0.001-4.txt) |
 | 250-0.001-5 | 2626.38 | [Download](bestsolutions/mallows/ABRKGA/250-0.001-5.txt) |
-
-### Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
