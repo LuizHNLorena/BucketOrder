@@ -1,3 +1,5 @@
+The sections that follows presents the best solution found by A-BRKGA+VND on the Preflib-Movielens and Mallows datasets.
+
 ## Best solutions for Preflib and Movielens instances
 
 
